@@ -18,7 +18,7 @@ function draw() {
     prettyColour = prettyColour - 255;
   }
   
-  background(prettyColour); 
+  background(prettyColour, 200, 200); 
   
   circle_1.draw();
   circle_1.slide();
