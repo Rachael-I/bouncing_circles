@@ -9,7 +9,6 @@ function setup() {
   circle_2 = new Circle();
   circle_3 = new Circle();
   prettyColour = 1;
-  increment = 1;
 }
 
 function draw() {
